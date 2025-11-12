@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #FAFAFA; /* Blanco/Crema de la paleta BARKLING */
+    color: #20201E; /* Negro de la paleta BARKLING */
+}
+
+header {
+    text-align: center;
+    padding: 15px 0;
+    background-color: #2F30D0; /* Azul de la paleta BARKLING */
+    color: white;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.2em;
+    color: #979188; /* Gris Topo de la paleta BARKLING */
+    border-bottom: 2px solid #b8aea0; /* Gris claro de la paleta BARKLING */
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+.card {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+.card p {
+    margin: 5px 0;
+    line-height: 1.4;
+}
+
+a {
+    color: #2F30D0; /* Enlaces en azul para destacar */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nota {
+    font-style: italic;
+    color: red;
+    font-weight: bold;
+}
