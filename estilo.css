@@ -22,7 +22,7 @@ h1 {
 
 h2 {
     font-size: 1.2em;
-    color: #979188; /* Gris Topo de la paleta BARKLING */
+    color: #000000; /* Gris Topo de la paleta BARKLING */
     border-bottom: 2px solid #b8aea0; /* Gris claro de la paleta BARKLING */
     padding-bottom: 5px;
     margin-top: 30px;
@@ -51,4 +51,17 @@ a {
     font-style: italic;
     color: red;
     font-weight: bold;
+}
+
+.ImagenPerro{
+    text-align: center;
+}
+
+.PerroFoto{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.NombrePerro{
+    font-size: 1.2em;
 }
